@@ -1,2 +1,2 @@
-# data_struct
-存放数据结构相关代码，同时包含一些练习代码
+# data_structure
+Storage data structure related code, including some practice code
